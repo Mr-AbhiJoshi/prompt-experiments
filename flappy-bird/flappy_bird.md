@@ -4,7 +4,7 @@
 **Final Code File**: `main.py`  
 **Language & Framework**: Python using `pygame`  
 **Objective**: Create a fully playable Flappy Bird clone using prompt engineering only—no manual coding.  
-**ChatGPT Conversation Link**: [View Full Conversation with ChatGPT](https://chatgpt.com/share/681ec1c6-384c-8013-88e8-fb32d4e557d8)
+**GitHub Repository**: [Access the complete version of game](https://github.com/Mr-AbhiJoshi/prompt-experiments/tree/main/flappy-bird)
 
 ---
 

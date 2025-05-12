@@ -12,8 +12,8 @@ This repository showcases a collection of AI-generated Python games and applicat
 | Project       | Description                        | Docs Link                |
 |---------------|------------------------------------|--------------------------|
 | Snake Game    | Classic game with themes, scoring  | [View Docs](./snake-game/snake_game.md) |
-| Tic Tac Toe   | AI vs Player or 2-player mode      | *(coming soon)*          |
-| Flappy Bird   | Side-scroller with difficulty modes| *(coming soon)*          |
+| Tic Tac Toe   | AI vs Player or 2-player mode      | [View Docs](./tic-tac-toe/tic-tac-toe.md) |
+| Flappy Bird   | Side-scroller with difficulty modes| [View Docs](./flappy-bird/flappy_bird.md) |
 
 ## 🤖 Powered By
 

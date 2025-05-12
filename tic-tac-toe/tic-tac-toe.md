@@ -134,6 +134,9 @@ Although the base game was largely complete after the first prompt, a few improv
 ### 🔗 ChatGPT Conversation Log  
 [Click to view full prompt engineering session](https://chat.openai.com/share/681ec1cb-615c-8013-bf8e-d906095426ba)
 
+### 💾 Code Repository
+[Access the complete version of game](https://github.com/Mr-AbhiJoshi/prompt-experiments/tree/main/tic-tac-toe)
+
 ### 📂 Repository Contents
 
 - `main.py` – Main game script  

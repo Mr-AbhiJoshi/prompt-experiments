@@ -186,7 +186,7 @@ Upon losing, players are presented with a clean replay or quit screen. High scor
 
 The complete and final version of the Snake game is available here:
 
-🔗 **GitHub Repository:** [Mr-AbhiJoshi/prompt-experiments](https://github.com/Mr-AbhiJoshi/prompt-experiments)
+🔗 **GitHub Repository:** [Mr-AbhiJoshi/prompt-experiments](https://github.com/Mr-AbhiJoshi/prompt-experiments/tree/main/snake-game)
 
 - `main.py` – Main game script  
 - `assets/` – Folder for images, fonts, and music  
