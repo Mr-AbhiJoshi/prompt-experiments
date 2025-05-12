@@ -1,0 +1,11 @@
+You are an expert game designer who is proficient in python. I would like you to create a simple "Tic-Tac-Toe" game for me in python. I will lay down some basic specifications which I would like as features in my game:
+1. When the games starts at the main menu display "Tic-Tac-Toe", and there would be three options, Play PvP, Play PvC and Exit.
+2. First mode is PvP, in which two human players can play with each other, the second will be PvC, where a player competes against computer. If player selects Exit, close the game.
+3. After the player selects mode, be it PvP or PvC, the next screen would display themes. The theme selection will have three distinct themes, in which the background color would be in contrast to the game grid and the colors chosen for crosses and zeroes. It is up to you to select the color scheme for these themes.
+4. If the player selected to play PvP, then display the names as "Player 1" and "Player 2" with their respective game signs. And if they selected PvC mode, then display the names as "Player" and "Computer". Randomly assign cross or circles to Players as their game signs, when the game starts.
+5. Look up and learn about the logic behind winning and losing in Tic-Tac-Toe. When the game ends, determine who won according to the rules, or if the match was drawn.
+6. Display who won the game, such as, "Player 1 won the game!!" or "Computer won the game!!", or if nobody wins, "Match Drawn!!" 
+7. After this, ask players to "Play again" or "Exit to Main Menu". If they press play again, just start the game again with the current selected mode and theme. Contain the winner banner, Play Again and Exit options in a solid rectangle with background color in contrast to the chosen theme, for clear visibility.
+8. Have a background music playing in the game to elevate the gaming experience.
+
+These are all specifications from my side. If you have any questions or you would like clarification on something, please ask. Otherwise, just write "Understood, No further questions", and start coding the game. Do you Understand ?
